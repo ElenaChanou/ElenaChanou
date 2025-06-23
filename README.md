@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ElenaChanou
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React Three Fiber
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on any Open Source Project
-- 📫 How to reach me 
-- 😄 Pronouns: ...
+- 📫 How to reach me elenachanou87@gmail.com
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
 <!---
